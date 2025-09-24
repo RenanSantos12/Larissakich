@@ -4,15 +4,13 @@
 
 Me chamo Renan Santos, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Das Américas(FAM).
 Sou desenvolvedor back-end, amo a área de tecnologia e procuro em me aprofundar cada vez mais em novos conhecimentos, buscando sempre evoluir e explorar diferentes possibilidades dentro da área.
+Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 
+---
 
 
-
-<br><br>
 ### 🤖 Linguagens e Tecnologias
-<br><br>
-
 <img 
     align="left" 
     alt="HTML"
