@@ -11,7 +11,7 @@ Sou desenvolvedor back-end, amo a área de tecnologia e procuro em me aprofundar
 
 <br><br>
 ### 🤖 Linguagens e Tecnologias
-<br>
+<br><br
 
 <img 
     align="left" 
